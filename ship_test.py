@@ -1,4 +1,5 @@
 "My sample game!"
+#Very good!
 
 from stuff import*
 
