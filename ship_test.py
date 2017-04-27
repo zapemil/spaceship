@@ -1,5 +1,5 @@
 "My sample game!"
-#Very good!
+
 
 from stuff import*
 
@@ -8,7 +8,7 @@ from stuff import*
 #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #
    #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #   #
 
-
+#version branch
 
 size = (800,600)
 screen = pygame.display.set_mode(size, 32)
